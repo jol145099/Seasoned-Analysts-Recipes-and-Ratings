@@ -3,9 +3,11 @@
 ## Part A
 
 ### 1. For step 4, what are two hypotheses you have tested, and what were the result?
-**Null hypothesis**: Recipes above and below the median ingredient count come from the same calorie distribution (any observed difference in median calories is due to random chance).
-**Alternative Hypothesis**: Recipes with more ingredients have a different median calorie count than recipes with fewer ingredients.
-**Result**: Yielded p-value as 0.00, and conclude to reject the null hypothesis and favor toward the alternative hypothesis that recipes with more ingredients have a different median calorie count than recipes with fewer ingredients.
+- **Null hypothesis**: Recipes above and below the median ingredient count come from the same calorie distribution (any observed difference in median calories is due to random chance).
+
+- **Alternative Hypothesis**: Recipes with more ingredients have a different median calorie count than recipes with fewer ingredients.
+
+- **Result**: Yielded p-value as 0.00 where significance level is 0.05, and concluded to reject the null hypothesis and favor the alternative hypothesis that recipes with more ingredients have a different median calorie count than recipes with fewer ingredients.
 
 ## Part B
 
