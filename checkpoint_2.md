@@ -3,11 +3,22 @@
 ## Part A
 
 ### 1. For step 4, what are two hypotheses you have tested, and what were the result?
-- **Null hypothesis**: Recipes above and below the median ingredient count come from the same calorie distribution (any observed difference in median calories is due to random chance).
 
-- **Alternative Hypothesis**: Recipes with more ingredients have a different median calorie count than recipes with fewer ingredients.
+- Hypothesis 1
+  
+(1) **Null hypothesis**: Recipes above and below the median ingredient count come from the SAME calorie distribution (any observed difference in median calories is due to random chance).
 
-- **Result**: Yielded p-value as 0.00 where significance level is 0.05, and concluded to reject the null hypothesis and favor the alternative hypothesis that recipes with more ingredients have a different median calorie count than recipes with fewer ingredients.
+(2) **Alternative Hypothesis**: Recipes with more ingredients have a DIFFERENT median calorie count than recipes with fewer ingredients.
+
+(3) **Result**: From the result, the observed statistics are 113.30 KCals. Since the p-value is less than the significance level of 0.05, we concluded that there is statistical evidence that the recipes with more ingredients have a different median calorie count than recipes with fewer ingredients.
+
+- Hypothesis 2
+
+(1) **Null hypothesis**: Recipes with quick (<=30 mins) and slow (> 30 mins) preparation time have the SAME average rating.
+
+(2) **Alternative hypothesis**: Recipes with quick (<=30 mins) preparation time have a HIGHER average rating than recipes with slow (> 30 mins) preparation time.
+
+(3) **Result**: From the result, the observed test statistic is 0.03499. Since the p-value is less than the significance level of 0.05, we concluded that there is statistical evidence that the quick recipes have higher average ratings.
 
 ## Part B
 
