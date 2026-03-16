@@ -8,8 +8,6 @@ Authors: Baixi Guo, Chiu-Chiu (JoJo) Lin, Ryan Liao
 
 ## Data Cleaning and Exploratory Data Analysis
 
-#### Result
-
 ### Univariate Analysis
 
 ### Bivariate Analysis
