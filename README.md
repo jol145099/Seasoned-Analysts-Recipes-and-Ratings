@@ -1,4 +1,5 @@
-# What Makes a Recipe High-Calorie? Predicting Nutrition from Recipe Metadata
+# What Makes a Recipe High-Calorie? 
+# Predicting Nutrition from Recipe Metadata
 
 **Authors:** Baixi Guo, Chiu-Chiu (JoJo) Lin, Ryan Liao
 
